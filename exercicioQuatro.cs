@@ -8,10 +8,10 @@ namespace exercicioQuatro
         static void Main(string[] args)
         {
             
-            double numero;
+            int numero;
 
             Console.WriteLine("Digite um número inteiro:");
-            numero = double.Parse(Console.ReadLine());
+            numero = int.Parse(Console.ReadLine());
 
             if (numero % 2 == 0)
             {
@@ -27,3 +27,4 @@ namespace exercicioQuatro
         }
     }
 }
+
