@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace exercicioUm
 {
-    internal class exercicioDois
+    internal class exercicioUm
     {
         static void Main(string[] args)
         {
@@ -26,3 +26,4 @@ namespace exercicioUm
         }
     }
 }
+
